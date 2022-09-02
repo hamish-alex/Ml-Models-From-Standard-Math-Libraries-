@@ -1,4 +1,4 @@
-import random
+# A simple linear regression program for approximating a linear equation
 
 import numpy as np
 import matplotlib.pyplot as plt
