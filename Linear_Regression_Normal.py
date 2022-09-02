@@ -1,4 +1,5 @@
-# A simple linear regression program for approximating a linear equation
+# A simple linear regression program for approximating a linear equation using the normal equation
+
 
 import numpy as np
 import matplotlib.pyplot as plt
